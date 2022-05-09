@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElenaRowan
 - 👀 I’m interested in ... Sociology, Anthropology, Literature, History, Geography and Data
-- 🌱 I’m currently learning ... Data Science with R
+- 🌱 I’m currently learning ... Data Science with R and Python
 - 💞️ I’m looking to collaborate on ... Data Activism projects
 - 📫 How to reach me ... 
 
